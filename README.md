@@ -55,6 +55,9 @@ Language Specific
 | [go-micro][2]                                                             |        |
 | [go-kit][2]                                                               |        |
 | [go-fiber][2]                                                             |        |
+| [react][2]                                                                |        |
+| [vue][2]                                                                  |        |
+| [svelt][2]                                                                |        |
 
 Cloud
 ------
