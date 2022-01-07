@@ -22,10 +22,10 @@ Development Skills
 | Idea                                                                      | Done    |
 |---------------------------------------------------------------------------|:-------:|
 | [Set up repo to organize all my learning][1]                              |    ✓    |
-| [document my setup and tools][2]                                          |        |
+| [document my setup and tools][2]                                          |    O    |
 | [contribute to an open source project][2]                                 |        |
-| [dockerize][2]                                                            |        |
-| [Build long term personal ci/cd][2]                                       |        |
+| [dockerize][2]                                                            |    O    |
+| [Build long term personal ci/cd][2]                                       |    O    |
 | [boiler plate][2]                                                         |        |
 | [code generation][2]                                                      |        |
 | [automated tests][2]                                                      |        |
